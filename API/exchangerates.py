@@ -5,6 +5,7 @@ import requests
 # App libraries
 from API import app
 
+# muj komentar
 
 class ExchangeRates:
     """
